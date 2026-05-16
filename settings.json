@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "UltraverseBot",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "UltraverseSmp.aternos.me",
+    "port": 15628,
     "version": "1.21.1"
   },
   "position": {
